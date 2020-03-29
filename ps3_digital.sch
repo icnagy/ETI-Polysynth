@@ -2838,4 +2838,15 @@ Connection ~ 20250 6000
 Wire Wire Line
 	20250 6600 20500 6600
 Connection ~ 20250 6600
+$Comp
+L Memory_RAM:6810 U24
+U 1 1 5F25EB04
+P 13800 9700
+F 0 "U24" H 13775 10425 50  0000 C CNN
+F 1 "6810" H 13775 10334 50  0000 C CNN
+F 2 "Package_DIP:DIP-24_W10.16mm_LongPads" H 13800 9600 50  0001 C CNN
+F 3 "https://www.alldatasheet.com/datasheet-pdf/pdf/100353/MOTOROLA/MCM6810.html" H 13900 9600 50  0001 C CNN
+	1    13800 9700
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
